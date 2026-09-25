@@ -1,0 +1,21 @@
+{
+  "generato": "2026-09-25",
+  "nota": "Lista di prova con il solo Kung Fu Panda per testare il bot eBay",
+  "desideri": [
+    {
+      "id": "f25",
+      "titolo": "Kung Fu Panda",
+      "titolo_originale": "Kung Fu Panda",
+      "anno": 2008,
+      "autore": "Mark Osborne, John Stevenson",
+      "categoria": "film",
+      "tipo": "film",
+      "formato": "blu-ray",
+      "prezzo_obiettivo": null,
+      "priorita": 2,
+      "note": "animazione, serve audio o sottotitoli italiani, Region B o free",
+      "ricerca": "Kung Fu Panda 2008 blu-ray",
+      "ricerca_it": "Kung Fu Panda 2008 blu-ray"
+    }
+  ]
+}
